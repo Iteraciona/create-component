@@ -1,0 +1,24 @@
+{
+  "name": "create-node-component",
+  "version": "0.10.1",
+  "description": "Create a Node Component for Backend or API",
+  "bin": {
+    "create-component": "./scripts/create-component.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Iteraciona/create-component.git"
+  },
+  "keywords": [
+    "node",
+    "component",
+    "backend",
+    "API"
+  ],
+  "author": "Eric Valera Miller <eric@iteraciona.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iteraciona/create-component/issues"
+  },
+  "homepage": "https://github.com/Iteraciona/create-component#readme"
+}
